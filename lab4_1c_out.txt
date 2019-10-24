@@ -1,0 +1,4 @@
+ec2-user:~/environment $ python Lab4_1c.py on
+{'StartingInstances': [{'CurrentState': {'Code': 0, 'Name': 'pending'}, 'InstanceId': 'i-0460bdbeab812f1f9', 'PreviousState': {'Code': 80, 'Name': 'stopped'}}], 'ResponseMetadata': {'RequestId': 'd0e2c1e2-ad1f-4c35-ad7c-6b1d95c35f22', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '579', 'date': 'Thu, 24 Oct 2019 20:08:14 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
+ec2-user:~/environment $ python Lab4_1c.py off
+{'StoppingInstances': [{'CurrentState': {'Code': 64, 'Name': 'stopping'}, 'InstanceId': 'i-0460bdbeab812f1f9', 'PreviousState': {'Code': 0, 'Name': 'pending'}}], 'ResponseMetadata': {'RequestId': 'b0a66a60-b1b4-4f65-a9ab-3f33fd7b9e48', 'HTTPStatusCode': 200, 'HTTPHeaders': {'content-type': 'text/xml;charset=UTF-8', 'content-length': '578', 'date': 'Thu, 24 Oct 2019 20:08:16 GMT', 'server': 'AmazonEC2'}, 'RetryAttempts': 0}}
