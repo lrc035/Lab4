@@ -1,0 +1,5 @@
+Existing buckets: 
+lrc035lab42abuc
+
+
+Process exited with code: 0
