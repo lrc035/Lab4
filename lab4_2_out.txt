@@ -1,0 +1,4 @@
+{'ResponseMetadata': {'RequestId': '716B6A7DAC3B4B79', 'HostId': 'N7+ZRvsXlQLNI6yVh8Q7aLmyBH3WoQHZ1G3i3ZtqPyjIaOhezVIwHm47OCuZOnpnLji7/Q0Jbyg=', 'HTTPStatusCode': 200, 'HTTPHeaders': {'x-amz-id-2': 'N7+ZRvsXlQLNI6yVh8Q7aLmyBH3WoQHZ1G3i3ZtqPyjIaOhezVIwHm47OCuZOnpnLji7/Q0Jbyg=', 'x-amz-request-id': '716B6A7DAC3B4B79', 'date': 'Tue, 29 Oct 2019 21:03:01 GMT', 'content-type': 'application/xml', 'transfer-encoding': 'chunked', 'server': 'AmazonS3'}, 'RetryAttempts': 0}, 'Owner': {'ID': '111a854513c3aece96e71609658d677f8c9d095c01967e3d67213ada70380693'}, 'Grants': [{'Grantee': {'ID': '111a854513c3aece96e71609658d677f8c9d095c01967e3d67213ada70380693', 'Type': 'CanonicalUser'}, 'Permission': 'FULL_CONTROL'}]}
+
+
+Process exited with code: 0
