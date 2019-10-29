@@ -1,5 +1,5 @@
 """
-Lab 4: Qa: First Python Boto3 activity
+Lab 4: Q1a: First Python Boto3 activity
 """
 
 import boto3
